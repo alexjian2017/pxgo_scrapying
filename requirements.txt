@@ -1,0 +1,6 @@
+mysql 
+mysql-connector-python
+psycopg2
+prettytable
+selenium
+flask
